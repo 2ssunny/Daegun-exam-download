@@ -3,14 +3,15 @@ import { useState } from "react";
 import React from "react";
 
 import "./home.css";
+import logo from "../media/daegunlogo.png";
 
 function Home() {
   return (
     <div className="down">
       <h1 className="downtitle">Daegun High School exam Download</h1>
-      <div>
-        <a href="https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe">
-          python download
+      <div className="down2022">
+        <a download href={logo}>
+          <button type="submit">download</button>
         </a>
       </div>
     </div>
