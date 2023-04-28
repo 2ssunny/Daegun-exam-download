@@ -6,9 +6,12 @@ import "./home.css";
 
 function Home() {
   return (
-    <div className="title">
-      <div className="body">
-        <h1>Daegun High School exam Download</h1>
+    <div className="down">
+      <h1 className="downtitle">Daegun High School exam Download</h1>
+      <div>
+        <a href="https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe">
+          python download
+        </a>
       </div>
     </div>
   );
