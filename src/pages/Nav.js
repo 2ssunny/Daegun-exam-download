@@ -16,6 +16,7 @@ function App() {
         <Link to="About" className="tltle-text">
           <span className="title-text2">About</span>
         </Link>
+
         <Link to="Download" className="tltle-text">
           <span className="title-text2">Download</span>
         </Link>
