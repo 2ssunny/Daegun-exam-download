@@ -1,10 +1,32 @@
 .button {
-  background-color: #4caf50;
-  border: none;
   color: white;
-  padding: 10px 20px;
+  margin: 30px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+
+.blank {
+  padding-bottom: 20px;
+}
+
+.downyeartitle {
+  text-align: center;
+}
+
+.firstsem {
+  border-right: 1px solid black;
+}
+
+.common {
+  border-bottom: 1px solid gray;
+}
+
+.liture {
+  text-align: center;
+}
+
+.math1 {
+  text-align: center;
 }
