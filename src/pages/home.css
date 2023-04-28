@@ -1,18 +1,47 @@
-.home {
+/* .home {
+  background-color: antiquewhite;
+  height: 90vh;
+} */
+
+.homehead {
   background-color: antiquewhite;
   height: 90vh;
 }
 
 .home_title {
   margin-top: 0px;
+  padding-top: 30px;
   font-size: 50px;
   text-align: center;
-  margin-bottom: 50px;
 }
 
 .homeexplain {
   font-size: 20px;
   text-align: center;
   margin-top: 50px;
-  margin-bottom: 50px;
+}
+
+.homefooter {
+  height: 15vh;
+  background-color: white;
+}
+
+.homename {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.homecontact {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.homegithub {
+  width: 60px;
+  height: auto;
+}
+
+.homename span {
+  font-size: 25px;
 }
