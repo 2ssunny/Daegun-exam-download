@@ -1,0 +1,18 @@
+.home {
+  background-color: antiquewhite;
+  height: 90vh;
+}
+
+.home_title {
+  margin-top: 0px;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.homeexplain {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}

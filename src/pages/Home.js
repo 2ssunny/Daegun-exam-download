@@ -6,9 +6,11 @@ import "./home.css";
 
 function Home() {
   return (
-    <div className="title">
-      <div className="body">
-        <h1>Daegun High School exam information</h1>
+    <div className="home">
+      <h1 className="home_title">Exam information download site</h1>
+
+      <div className="homeexplain">
+        <p>webpage for Daegun hish school students</p>
       </div>
     </div>
   );
