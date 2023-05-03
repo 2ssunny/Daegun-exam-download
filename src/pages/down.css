@@ -1,5 +1,31 @@
+.down {
+  background-color: antiquewhite;
+  height: 90vh;
+}
+
 .downtitle {
-  font-size: 20px;
+  font-size: 40px;
   font-weight: bold;
+  padding-bottom: 40px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.downlink {
+  font-size: 20px;
   margin: 10px 0;
+  text-align: center;
+  display: flex;
+}
+.down-text {
+  font-size: 20px;
+  margin: auto;
+  text-decoration: none;
+  color: inherit;
+}
+
+.downexplain {
+  font-size: 20px;
+  margin-top: 40px;
+  text-align: center;
 }

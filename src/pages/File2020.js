@@ -13,9 +13,12 @@ import firmath2ans from "../media/2019/1stsem/midterm/1901중간수2답.pdf";
 function Home() {
   return (
     <div className="downyear">
-      <h1 className="downyeartitle">2019 Daegun highschool exam</h1>
-      <div className="down2019">
+      <h1 className="downyeartitle">2020 Daegun highschool exam</h1>
+      <div className="down2020">
         <div className="firstsem">
+          <div className="semtitle">
+            <h1 className="1stsem">First semester</h1>
+          </div>
           <div className="common">
             <div className="liture">
               <a download href={firmidmun} className="button">

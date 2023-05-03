@@ -1,0 +1,68 @@
+.abouttitle {
+  padding-top: 0px;
+  height: 90vh;
+  background-color: antiquewhite;
+  font-weight: 700;
+  text-align: center;
+  color: #333;
+}
+
+.abouttitle h1 {
+  padding-top: 20px;
+  margin-top: 0px;
+}
+
+.abouttext {
+  margin-top: 20px;
+  padding-top: 30px;
+}
+
+.contact a:nth-child(1) {
+  /*Instagram*/
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right, #f27121, #e94057, #8a2387);
+  border-radius: 50%;
+  margin: 22px 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+.contact {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.contact a:nth-child(2) {
+  /*Telegram*/
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right, #1488cc, #2b32b2);
+  border-radius: 50%;
+  margin: 22px 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.contact a:nth-child(3) {
+  /*Github*/
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right, #1f1c2c, #928dab);
+  border-radius: 50%;
+  margin: 22px 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}

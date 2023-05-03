@@ -13,20 +13,35 @@
 
 .downyeartitle {
   text-align: center;
+  padding-bottom: 20px;
+  border-bottom: 2px solid gray;
 }
 
 .firstsem {
   border-right: 1px solid black;
 }
-
-.common {
+.downtestinfo {
+  text-align: center;
+  padding-bottom: 20px;
   border-bottom: 1px solid gray;
 }
 
-.liture {
+.common {
   text-align: center;
+  border-bottom: 1px solid gray;
 }
 
-.math1 {
+.social {
   text-align: center;
+  border-bottom: 1px solid gray;
+}
+
+.science {
+  text-align: center;
+  border-bottom: 1px solid gray;
+}
+
+.etc {
+  text-align: center;
+  border-bottom: 1px solid gray;
 }
