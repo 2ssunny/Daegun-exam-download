@@ -3,7 +3,7 @@ import { useState } from "react";
 import React from "react";
 
 import "./nav.css";
-import logo from "../media/daegunlogo.png";
+import logo from "../media/daegunlogo_negative.png";
 
 function App() {
   return (
