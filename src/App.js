@@ -6,7 +6,6 @@ import About from "./pages/About.js";
 import Nav from "./pages/Nav.js";
 import Home from "./pages/Home.js";
 import Download from "./pages/Download.js";
-import File2019 from "./pages/File2019.js";
 import File2020 from "./pages/File2020.js";
 import File2021 from "./pages/File2021.js";
 import File2022 from "./pages/File2022.js";
@@ -21,7 +20,6 @@ function App() {
           <Route path="About" element={<About />} />
           <Route path="Download">
             <Route path="" element={<Download />} />
-            <Route path="File2019" element={<File2019 />} />
             <Route path="File2020" element={<File2020 />} />
             <Route path="File2021" element={<File2021 />} />
             <Route path="File2022" element={<File2022 />} />

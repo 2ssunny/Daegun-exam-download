@@ -9,9 +9,7 @@ function Home() {
   return (
     <div>
       <div className="homehead">
-        <h1 className="home_title">
-          대건고등학교 기출문제 및 모의고사 다운로드 사이트
-        </h1>
+        <h1 className="home_title">대건고등학교 기출문제 다운로드 사이트</h1>
 
         <div className="homeexplain">
           <p>대건고등학교 학생들의 편의를 위한 사이트입니다.</p>

@@ -25,21 +25,25 @@ function App() {
         추후 평가원, 교육청 문제들 또한 추가할 예정이니 많은 관심 바랍니다
       </h3>
       <h3 className="abouttext">
-        pdf파일을 직접 나누는 작업을 하기에 오류가 있을수 있습니다. 문제가
-        발생할경우 언제든 알려주시길 바랍니다.
+        학교에서 제공되는 pdf 파일을 직접 과목별로 나누어 수정하니 오류가 있을
+        수 있습니다. 문제사항이 발생하거나 불편사항이 발생할 경우 언제든 문의
+        부탁드립니다.
       </h3>
 
       <div className="contact">
-        <a href="https://www.instagram.com/ju_ho23/">
+        <a href="https://www.instagram.com/ju_ho23/" target="_blank">
           <i class="fa-brands fa-instagram"></i>
         </a>
 
-        <a href="https://t.me/ssunny_lee">
+        <a href="https://t.me/ssunny_lee" target="_blank">
           <i class="fa-brands fa-telegram"></i>
         </a>
 
-        <a href="https://github.com/2ssunny">
+        <a href="https://github.com/2ssunny" target="_blank">
           <i class="fa-brands fa-github"></i>
+        </a>
+        <a href="https://open.kakao.com/o/sWKeIEif" target="_blank">
+          <i class="fa-solid fa-message"></i>
         </a>
       </div>
     </div>
