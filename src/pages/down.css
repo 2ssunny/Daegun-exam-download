@@ -24,6 +24,11 @@
   color: inherit;
 }
 
+.down-text span:hover {
+  font-size: 25px;
+  transition: 0.2s;
+}
+
 .downexplain {
   font-size: 20px;
   margin-top: 40px;

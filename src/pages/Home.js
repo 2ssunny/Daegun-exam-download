@@ -1,5 +1,3 @@
-import { Link, Route, BrowserRouter, Routes } from "react-router-dom";
-import { useState } from "react";
 import React from "react";
 
 import "./home.css";

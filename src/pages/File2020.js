@@ -1,5 +1,3 @@
-import { Link, Route, BrowserRouter, Routes } from "react-router-dom";
-import { useState } from "react";
 import React from "react";
 
 import "./year.css";
@@ -227,7 +225,7 @@ function Home() {
               <div className="blank" />
               <div className="prgm">
                 <a download href={firmidpr} className="button">
-                  <button>ㅍ로그래밍 시험지</button>
+                  <button>프로그래밍 시험지</button>
                 </a>
                 <a download href={firmidprans} className="button">
                   <button>프로그래밍 정답지</button>
@@ -363,7 +361,7 @@ function Home() {
               <div className="blank" />
               <div className="prgm">
                 <a download href={firfinpr} className="button">
-                  <button>ㅍ로그래밍 시험지</button>
+                  <button>프로그래밍 시험지</button>
                 </a>
                 <a download href={firfinprans} className="button">
                   <button>프로그래밍 정답지</button>
