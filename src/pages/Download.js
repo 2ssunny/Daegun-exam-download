@@ -8,6 +8,9 @@ function Home() {
     <div className="down">
       <h1 className="downtitle">Daegun High School exam Download</h1>
       <div className="downlink">
+        <Link to="File2019" className="down-text">
+          <span className="title-text2">2019학년도</span>
+        </Link>
         <Link to="File2020" className="down-text">
           <span className="title-text2">2020학년도</span>
         </Link>

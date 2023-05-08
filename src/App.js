@@ -20,6 +20,7 @@ function App() {
           <Route path="About" element={<About />} />
           <Route path="Download">
             <Route path="" element={<Download />} />
+            <Route path="File2019" element={<File2019 />} />
             <Route path="File2020" element={<File2020 />} />
             <Route path="File2021" element={<File2021 />} />
             <Route path="File2022" element={<File2022 />} />
