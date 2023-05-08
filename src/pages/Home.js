@@ -10,6 +10,7 @@ function Home() {
         <h1 className="home_title">대건고등학교 기출문제 다운로드 사이트</h1>
 
         <div className="homeexplain">
+          <p>Test</p>
           <p>대건고등학교 학생들의 편의를 위한 사이트입니다.</p>
           <p>학생들의 편의를 위한것이며 영리적 목적으로 사용되지 않습니다.</p>
         </div>
