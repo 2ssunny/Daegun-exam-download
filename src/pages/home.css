@@ -21,6 +21,18 @@
   margin-top: 50px;
 }
 
+.ad_title {
+  font-size: 30px;
+  text-align: center;
+  margin: auto;
+}
+.ldw_ad {
+  text-align: center;
+  margin: auto;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
 .homefooter {
   height: 15vh;
   background-color: white;
