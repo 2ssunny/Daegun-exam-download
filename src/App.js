@@ -9,10 +9,8 @@ import Download from "./pages/Download.js";
 import File2020 from "./pages/File2020.js";
 import File2021 from "./pages/File2021.js";
 import File2022 from "./pages/File2022.js";
-import RouteChangeTracker from "./components/RouteChangeTracker";
 
 function App() {
-  RouteChangeTracker();
   return (
     <div>
       <BrowserRouter>
